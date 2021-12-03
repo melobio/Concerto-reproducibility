@@ -1,7 +1,7 @@
 Use Conda to install these package:
 Python==3.6.2 ##conda install python=3.6
-cuda == 10.0 ##conda install cudatoolkit=11.0
-cuDNN == 7.6.5 ##conda install -c anaconda cudnn
+cuda == 11.0 ##conda install cudatoolkit=11.0
+cuDNN == 8.0.4 ##conda install -c anaconda cudnn
 
 Use Pypi to install these package:
 tensorflow==2.4.1
