@@ -4,7 +4,7 @@ cuda == 10.0 ##conda install cudatoolkit=10.0
 cuDNN == 7.6.5 ##conda install -c anaconda cudnn
 
 Use Pypi to install these package:
-tensorflow-gpu==2.0.0b1
+tensorflow-gpu==2.4.1
 numpy==1.19.5
 pandas==1.1.5
 scanpy==1.7.1
@@ -14,3 +14,4 @@ argparse==1.4.0
 loompy==3.0.6
 openTSNE==0.4.4
 umap-learn==0.4.6
+h5py==2.10.0
