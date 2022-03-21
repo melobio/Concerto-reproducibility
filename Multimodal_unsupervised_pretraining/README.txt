@@ -1,8 +1,7 @@
 ##If you don't want to train the model, you can just load our pre-trained weight and test it directly and step 3 is not required.
 1. Data preparation
-- Download PBMC160K multimodal dataset from https://atlas.fredhutch.org/data/nygc/multimodal/pbmc_multimodal.h5seurat
-- Extract RNA data to ./data/multi_RNA_l2.loom
-- Extract Protein data to ./data/multi_RNA_l2.loom
+- Download PBMC160K multimodal dataset from https://doi.org/10.6084/m9.figshare.19390574.v1
+
 
 2.Create tf-record file
 python 00_create_tfrecord.py \
