@@ -1,13 +1,7 @@
-1.Create tf-record file
-python 00_create_tfrecord.py \
-  --data ./data/hp_rmSchwann_commonCelltype.loom \
-  --output ./tfrecord \
-  --batch tech \
-  --label celltype
+1. Data preparation
+- Download the human pancreas dataset from https://doi.org/10.6084/m9.figshare.19390574.v1
+ -Then save hp_rmSchwann_commonCelltype.loom in ./data
 
 2. Unsupervised training model
-python 01_unsupervised_train_test.py \
-  --data ./tfrecord \
-  --save ./weight \
-  --result ./result 
+- Run tutorial_transfer.ipynb
 
