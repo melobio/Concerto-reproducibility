@@ -6,3 +6,5 @@
 - Multimodal_unsupervised_pretraining/README.txt
 - NOTE: Run the program in README.txt under the path of ./Multimodal_unsupervised_pretraining/
 
+# Covid19 task
+- Covid19_task/README.txt
