@@ -1,4 +1,4 @@
-# Concerto
+# Concerto demo
 # Transfering task
 - transfer/README.txt
 - NOTE: Run the program in README.txt under the path of ./transfer/
