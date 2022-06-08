@@ -5,6 +5,8 @@
 ## Multimodal unsupervised pretraining task
 - Multimodal_unsupervised_pretraining/README.txt
 - NOTE: Run the program in README.txt under the path of ./Multimodal_unsupervised_pretraining/
-
+## Batch correction task
+- Batch_correction/README.txt
+- NOTE: Run the program in README.txt under the path of ./Batch_correction/
 ## Covid19 task
 - Covid19_task/README.txt
