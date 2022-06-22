@@ -20,4 +20,4 @@ The download link for datasets is shown in a folder named "data" in the followin
 ## Covid19 task
 - Note book path: Covid19_task/Covid19_demo.ipynb
 - [Readme for the Covid19 tutorial](Covid19_task/README.txt)
-- Description: 
+- Description: Query-reference mapping process and downstream analysis for COVID-19 patients.
