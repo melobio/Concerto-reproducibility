@@ -2,7 +2,7 @@
 This repository contains code and tutorials for the following tasks: Transfering task, Multimodal unsupervised pretraining task, 
 Batch correction task and Covid19 task.
 ## Getting started
-In the first step, you will need to download datasets and pretrained models to run each notebook and reproduce the result. 
+In the first step, you will need to download datasets to run each notebook and reproduce the result. 
 The download link for datasets is shown in the following task.
 ## Transfering task
 - transfer/README.txt
