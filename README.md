@@ -7,13 +7,17 @@ The download link for datasets is shown in a folder named "data" in the followin
 ## Transfering task
 - Note book path: transfer/tutorial_transfer.ipynb
 - [Readme for the transfer tutorial](transfer/README.txt)
-- transfer/README.txt
-- NOTE: Run the program in README.txt under the path of ./transfer/
+- Description: We use human pancreas dataset to do query-reference mapping (HP->inDrop).
 ## Multimodal unsupervised pretraining task
-- Multimodal_unsupervised_pretraining/README.txt
-- NOTE: Run the program in README.txt under the path of ./Multimodal_unsupervised_pretraining/
+- Note book path (Clustering): Multimodal_integration/tutorial_multimodal_cluster.ipynb
+- Note book path (Plot attention weight): Multimodal_integration/tutorial_multimodal_print_attention.ipynb
+- [Readme for the multimodal unsupervised pretraining tutorial](Multimodal_unsupervised_pretraining/README.txt)
+- Description: We use PBMC160K multimodal dataset to unsupervised pretrain the multimodal model and perform clustering and plotting attention weight.
 ## Batch correction task
-- Batch_correction/README.txt
-- NOTE: Run the program in README.txt under the path of ./Batch_correction/
+- Note book path: Batch_correction/tutorial_overcorrect.ipynb
+- [Readme for the batch corrtection tutorial](Batch_correction/README.txt)
+- Description: To further justify Concerto’s ability to avoid over-correction, we design a controlled experiment using a simulated dataset and we unsupervised pretrain model and plot UMAP of cell embeddings.
 ## Covid19 task
-- Covid19_task/README.txt
+- Note book path: Covid19_task/Covid19_demo.ipynb
+- [Readme for the Covid19 tutorial](Covid19_task/README.txt)
+- Description: 
