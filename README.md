@@ -19,5 +19,5 @@ The download link for datasets is shown in a folder named "data" in the followin
 - Description: To further justify Concerto’s ability to avoid over-correction, we design a controlled experiment using a simulated dataset and we unsupervised pretrain model and plot UMAP of cell embeddings.
 ## Covid19 task
 - Note book path: Covid19_task/Covid19_demo.ipynb
-- [Readme for the Covid19 tutorial](Covid19_task/README.txt)
+- [Readme for the Covid19 tutorial](Covid19_task/README.md)
 - Description: Query-reference mapping process and downstream analysis for COVID-19 patients.
