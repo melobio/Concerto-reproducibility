@@ -3,7 +3,7 @@
  -Then save multi_gene_l2.loom and multi_protein_l2.loom in ./data.
 
 
-2. Unsupervised multimodal training and clustering
+2. Self-supervised multimodal training and clustering
 - Run tutorial_multimodal_cluster.ipynb
 
 
