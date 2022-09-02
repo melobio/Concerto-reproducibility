@@ -42,3 +42,5 @@ query_neighbor,query_prob = knn_classifier(ref_embedding,query_embedding,adata_r
 - Note book path: Covid19_task/Covid19_demo.ipynb
 - [Readme for the Covid19 tutorial](Covid19_task/README.md)
 - Description: Mapping Covid-19 cells against the integrated reference from 10X and DNBelab-C4 data.
+## Dataset used in this study with corresponding links（Supplementary Table 1&7）
+- The download link of dataset is shown in [SupplementaryTable1&7_links.xlsx](SupplementaryTable1&7_links.xlsx)
