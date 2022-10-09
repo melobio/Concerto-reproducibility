@@ -38,13 +38,13 @@ query_neighbor,query_prob = knn_classifier(ref_embedding,query_embedding,adata_r
 - Notebook path: Batch_correction/tutorial_overcorrect.ipynb
 - [Readme for the batch corrtection tutorial](Batch_correction/README.txt)
 - Description: To justify Concerto’s ability to avoid over-correction, we design a controlled experiment using a simulated dataset.
-## Covid19 task（Fig5）
+## Covid19 task (Fig5)
 - Note book path: Covid19_task/Covid19_demo.ipynb
 - [Readme for the Covid19 tutorial](Covid19_task/README.md)
 - Description: Mapping Covid-19 cells against the integrated reference from 10X and DNBelab-C4 data.
-## Inter data task（Fig2g）
-- Note book path: Inter_data_task/tutorial_inter.ipynb
-- [Readme for the inter data tutorial](Inter_data_task/README.txt)
+## Cross tissue annotation (Fig2g）
+- Note book path: Cross_tissue_annotation/tutorial_inter.ipynb
+- [Readme for the inter data tutorial](Cross_tissue_annotation/README.txt)
 - Description: Cross-tissue prediction on the TMS dataset.
 ## Dataset used in this study with corresponding links（Supplementary Table 1&7）
 - The download link of dataset is shown in [SupplementaryTable1&7_links.xlsx](SupplementaryTable1&7_links.xlsx)
